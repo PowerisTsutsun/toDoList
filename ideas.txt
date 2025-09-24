@@ -1,0 +1,5 @@
+1. Timmer [Done]
+2. "Hello, Human" alignments + bigger font [Done]
+3. Fix date/time applier [Done]
+4. Allow user to add the USER NAME instead of "Human"
+5. Add a mini-game function [puzzles].
