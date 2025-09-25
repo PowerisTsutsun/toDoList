@@ -18,7 +18,7 @@ def save_config():
 # --- Translations ---
 _LANGS = {
     "en": {
-        "app_title": "To-Do (Dark)", "home": "Home", "name": "Name", "settings": "Settings",
+        "app_title": "To-Do-App", "home": "Home", "name": "Name", "settings": "Settings",
         "settings_saved": "Settings saved and applied!", "theme": "Theme", "dark": "Dark", "light": "Light",
         "timer": "Timer", "pomodoro": "Pomodoro Timer", "start": "Start", "pause": "Pause",
         "reset": "Reset", "set_duration": "Duration (min):", "time_up": "Time's up!",

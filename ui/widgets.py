@@ -69,7 +69,7 @@ class NavBar(tk.Frame):
         mk(80, i18n.t("home"), on_home)
         mk(230, i18n.t("timer"), on_timer)
         mk(380, "+", on_add)
-        mk(530, "⋯", on_settings)
+        mk(530, "Settings", on_settings)
 
 class PillButton(ttk.Button):
     def __init__(self, master, text, **kw):
