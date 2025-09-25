@@ -1,5 +1,11 @@
 1. Timmer [Done]
-2. "Hello, Human" alignments + bigger font [Done]
+2. "Hello, "user's input" alignments + bigger font [Done]
 3. Fix date/time applier [Done]
-4. Allow user to add the USER NAME instead of "Human"
+4. Allow user to add the USER NAME instead of "Human" [Done]
 5. Add a mini-game function [puzzles].
+6. App resolution Fix [Done]
+7. Fix the post-setting change :"message" [Done]
+8. Instead of opening new windows, add scroll type function for settings. [Done]
+9. "Due today" section [Done]
+10. Add "select all" & "clear" buttons. [Done]
+11. Add new themes. [Done]

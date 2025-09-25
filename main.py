@@ -8,6 +8,10 @@ def main():
     root.title(i18n.t("app_title"))
     root.geometry("740x680")
     
+    # Make window resizable and set a minimum size
+    root.resizable(True, True)
+    root.minsize(600, 500)
+    
     apply_theme(root, i18n.theme) # Apply saved theme on startup
     
     TodoScreen(root)
